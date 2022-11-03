@@ -183,5 +183,4 @@ The second option is to only encrypt the media content using QUIC encryption but
 
 # Security Considerations
 
-When the metadata is not carried inside the QUIC payload, it should be protected from unauthorized third-part access to protect the privacy. Relay should be authenticated to access the metadata.  
-
+When the metadata is not carried inside the QUIC payload, it should be protected from unauthorized third-part access to protect the privacy. Relay should be authenticated to access the metadata. 
