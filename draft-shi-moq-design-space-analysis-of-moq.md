@@ -22,19 +22,19 @@ venue:
   latest: "https://VMatrix1900.github.io/moq-design-space-analysis-of-moq/draft-shi-moq-design-space-analysis-of-moq.html"
 
 author:
- -
-  ins: H. Shi
-  name: Hang Shi
-  organization: Huawei Technologies
-  role: editor
-  email: shihang9@huawei.com
-  country: China
- -
-  ins: Y. Cui
-  name: Yong Cui
-  organization: Tsinghua University
-  email: cuiyong@tsinghua.edu.cn
-  country: China
+   -
+     ins: H. Shi
+     name: Hang Shi
+     organization: Huawei Technologies
+     role: editor
+     email: shihang9@huawei.com
+     country: China
+   -
+     ins: Y. Cui
+     name: Yong Cui
+     organization: Tsinghua University
+     email: cuiyong@tsinghua.edu.cn
+     country: China
 
 normative:
 
